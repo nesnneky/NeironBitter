@@ -22,7 +22,7 @@ Advanced Antivirus is a lightweight antivirus application that performs comprehe
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/advanced-antivirus.git
+    git clone https://github.com/nesnneky/NeironBitter.git
     cd advanced-antivirus
     ```
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any issues or contributions, please reach out via GitHub Issues or email me at [your-email@example.com](mailto:csgotpjing@gmail.com).
+For any issues or contributions, please reach out via GitHub Issues or email me at [csgotpjing@gmail.com](mailto:csgotpjing@gmail.com).
